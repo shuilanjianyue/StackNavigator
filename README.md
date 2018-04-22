@@ -1,0 +1,2 @@
+# StackNavigator
+react-navigation中的路由跳转只有StackNavigator的使用
